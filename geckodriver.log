@@ -1,0 +1,1177 @@
+1513033319443	geckodriver	INFO	geckodriver 0.19.1
+1513033319527	geckodriver	INFO	Listening on 127.0.0.1:46299
+1513033320731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rRmaeNQFakMc"
+1513033321606	Marionette	INFO	Enabled via --marionette
+1513033325616	Marionette	INFO	Listening on port 44309
+1513033325658	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513033325760	Marionette	DEBUG	Register listener.js for window 2147483649
+1513033325796	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513033326164	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513033326165	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513033329439	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/"
+1513033330080	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/"
+
+(/usr/lib/firefox/firefox:4649): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513033822791	geckodriver	INFO	geckodriver 0.19.1
+1513033822799	geckodriver	INFO	Listening on 127.0.0.1:46747
+1513033823922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.V4kSG1a24ClG"
+1513033824774	Marionette	INFO	Enabled via --marionette
+1513033828328	Marionette	INFO	Listening on port 38801
+1513033828353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513033828442	Marionette	DEBUG	Register listener.js for window 2147483649
+1513033828470	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513033828842	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513033828843	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513033830970	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/"
+1513033831561	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/"
+1513033909576	geckodriver	INFO	geckodriver 0.19.1
+1513033909581	geckodriver	INFO	Listening on 127.0.0.1:52989
+1513033910708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9FlG4xO0tjRB"
+1513033911602	Marionette	INFO	Enabled via --marionette
+1513033915053	Marionette	INFO	Listening on port 41667
+1513033915145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513033915223	Marionette	DEBUG	Register listener.js for window 2147483649
+1513033915249	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513033915581	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513033915582	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513033918890	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/"
+1513033919457	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/"
+1513034258723	geckodriver	INFO	geckodriver 0.19.1
+1513034258728	geckodriver	INFO	Listening on 127.0.0.1:47343
+1513034259838	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9hCswVUo3hiC"
+1513034260710	Marionette	INFO	Enabled via --marionette
+1513034264669	Marionette	INFO	Listening on port 41977
+1513034264765	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513034264868	Marionette	DEBUG	Register listener.js for window 2147483649
+1513034264906	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513034265819	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513034265820	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513034269472	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513034270048	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513034311270	geckodriver	INFO	geckodriver 0.19.1
+1513034311276	geckodriver	INFO	Listening on 127.0.0.1:58329
+1513034312397	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Gdh4VACzc7Xe"
+1513034313215	Marionette	INFO	Enabled via --marionette
+1513034316720	Marionette	INFO	Listening on port 39687
+1513034316829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513034316909	Marionette	DEBUG	Register listener.js for window 2147483649
+1513034316957	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513034317295	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513034317297	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513034319559	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513034320251	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513034406342	geckodriver	INFO	geckodriver 0.19.1
+1513034406347	geckodriver	INFO	Listening on 127.0.0.1:43109
+1513034407454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fOrfNQX11Ygb"
+1513034408372	Marionette	INFO	Enabled via --marionette
+1513034411937	Marionette	INFO	Listening on port 34753
+1513034411973	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513034412073	Marionette	DEBUG	Register listener.js for window 2147483649
+1513034412112	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513034412454	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513034412454	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513034414678	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513034415375	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513034569444	geckodriver	INFO	geckodriver 0.19.1
+1513034569448	geckodriver	INFO	Listening on 127.0.0.1:57203
+1513034570588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.x1H0Hz0yZ81A"
+1513034571390	Marionette	INFO	Enabled via --marionette
+1513034574782	Marionette	INFO	Listening on port 33223
+1513034574812	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513034574891	Marionette	DEBUG	Register listener.js for window 2147483649
+1513034574929	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513034575267	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513034575268	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513034577916	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513034578660	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513035465780	geckodriver	INFO	geckodriver 0.19.1
+1513035465784	geckodriver	INFO	Listening on 127.0.0.1:60267
+1513035466924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XEwSoyFedpTN"
+1513035467847	Marionette	INFO	Enabled via --marionette
+1513035471404	Marionette	INFO	Listening on port 33499
+1513035471595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513035471699	Marionette	DEBUG	Register listener.js for window 2147483649
+1513035471721	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513035472113	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513035472114	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513035474491	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513035475173	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513035559663	geckodriver	INFO	geckodriver 0.19.1
+1513035559670	geckodriver	INFO	Listening on 127.0.0.1:38291
+1513035560921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YpkBp3EisO3r"
+1513035562486	Marionette	INFO	Enabled via --marionette
+1513035567784	Marionette	INFO	Listening on port 44355
+1513035567882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513035568090	Marionette	DEBUG	Register listener.js for window 2147483649
+1513035568202	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513035568765	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513035568766	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513035572521	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513035573419	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513035784659	geckodriver	INFO	geckodriver 0.19.1
+1513035784666	geckodriver	INFO	Listening on 127.0.0.1:46421
+1513035785819	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Xy4Qc9jynsjw"
+1513035787094	Marionette	INFO	Enabled via --marionette
+1513035791118	Marionette	INFO	Listening on port 39693
+1513035791167	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513035791322	Marionette	DEBUG	Register listener.js for window 2147483649
+1513035791400	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513035791745	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513035791746	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513035794902	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513035795642	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513035852467	geckodriver	INFO	geckodriver 0.19.1
+1513035852474	geckodriver	INFO	Listening on 127.0.0.1:57983
+1513035853635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nbMidMo0WMSG"
+1513035854715	Marionette	INFO	Enabled via --marionette
+1513035858464	Marionette	INFO	Listening on port 40765
+1513035858565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513035858689	Marionette	DEBUG	Register listener.js for window 2147483649
+1513035858774	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513035859156	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513035859157	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513035862617	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513035863097	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513035977055	geckodriver	INFO	geckodriver 0.19.1
+1513035977061	geckodriver	INFO	Listening on 127.0.0.1:34339
+1513035978201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FRtWmdnOWwXc"
+1513035979238	Marionette	INFO	Enabled via --marionette
+1513035983026	Marionette	INFO	Listening on port 38713
+1513035983125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513035983224	Marionette	DEBUG	Register listener.js for window 2147483649
+1513035983246	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513035983580	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513035983581	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513035987331	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513035987942	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513036190133	geckodriver	INFO	geckodriver 0.19.1
+1513036190139	geckodriver	INFO	Listening on 127.0.0.1:57085
+1513036191263	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qQNbChEVUhcn"
+1513036192098	Marionette	INFO	Enabled via --marionette
+1513036195708	Marionette	INFO	Listening on port 36265
+1513036195788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513036195879	Marionette	DEBUG	Register listener.js for window 2147483649
+1513036195911	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513036196257	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513036196258	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513036198653	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513036199253	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513037054380	geckodriver	INFO	geckodriver 0.19.1
+1513037054385	geckodriver	INFO	Listening on 127.0.0.1:48361
+1513037055505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.puUWgXFGHTmy"
+1513037056363	Marionette	INFO	Enabled via --marionette
+1513037059571	Marionette	INFO	Listening on port 39449
+1513037059778	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513037059881	Marionette	DEBUG	Register listener.js for window 2147483649
+1513037059924	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513037060272	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513037060272	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513037063212	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513037063777	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513037064036	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513037124654	geckodriver	INFO	geckodriver 0.19.1
+1513037124661	geckodriver	INFO	Listening on 127.0.0.1:48131
+1513037125846	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EQFPqM5yscZy"
+1513037127254	Marionette	INFO	Enabled via --marionette
+1513037131568	Marionette	INFO	Listening on port 33815
+1513037131605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513037131761	Marionette	DEBUG	Register listener.js for window 2147483649
+1513037131834	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513037132178	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513037132179	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513037134582	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513037135241	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513037135502	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513037400575	geckodriver	INFO	geckodriver 0.19.1
+1513037400582	geckodriver	INFO	Listening on 127.0.0.1:55873
+1513037401801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kgqIvpzWZoqd"
+1513037403326	Marionette	INFO	Enabled via --marionette
+1513037407653	Marionette	INFO	Listening on port 45775
+1513037407919	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513037408129	Marionette	DEBUG	Register listener.js for window 2147483649
+1513037408249	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513037408637	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513037408637	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://med-profile.apps.intmed.com.br/assets/application-2651fb4b8d84e4b1b09cf21b770eecb3ee8680aef9c9a1b614766e8890695209.js, line 4: TypeError: 'closest' called on an object that does not implement interface Element.
+1513037412354	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513037412921	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513037413285	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513037452675	geckodriver	INFO	geckodriver 0.19.1
+1513037452684	geckodriver	INFO	Listening on 127.0.0.1:57563
+1513037453999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uzIChT4x1waz"
+1513037455947	Marionette	INFO	Enabled via --marionette
+1513037463117	Marionette	INFO	Listening on port 42185
+1513037463165	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513037463424	Marionette	DEBUG	Register listener.js for window 2147483649
+1513037463543	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513037463930	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513037463931	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513037467400	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513037468011	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513037468377	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513037562850	geckodriver	INFO	geckodriver 0.19.1
+1513037562858	geckodriver	INFO	Listening on 127.0.0.1:38423
+1513037564002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.o76QQHD1cFyt"
+1513037565126	Marionette	INFO	Enabled via --marionette
+1513037569152	Marionette	INFO	Listening on port 33535
+1513037569422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513037569592	Marionette	DEBUG	Register listener.js for window 2147483649
+1513037569665	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513037570006	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513037570007	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513037574498	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513037575042	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513037575319	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513037645203	geckodriver	INFO	geckodriver 0.19.1
+1513037645207	geckodriver	INFO	Listening on 127.0.0.1:58013
+1513037646329	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aodEgGhpsMol"
+1513037647303	Marionette	INFO	Enabled via --marionette
+1513037650818	Marionette	INFO	Listening on port 46051
+1513037651006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513037651088	Marionette	DEBUG	Register listener.js for window 2147483649
+1513037651118	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513037651445	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513037651445	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513037655202	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513037655770	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513037656031	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513037770937	geckodriver	INFO	geckodriver 0.19.1
+1513037770943	geckodriver	INFO	Listening on 127.0.0.1:36369
+1513037772065	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.os5DwxBhprbu"
+1513037773049	Marionette	INFO	Enabled via --marionette
+1513037776288	Marionette	INFO	Listening on port 37367
+1513037776525	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513037776621	Marionette	DEBUG	Register listener.js for window 2147483649
+1513037776654	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513037777023	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513037777023	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513037780882	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513037781446	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513037781712	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 276"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:276:5
+reply@chrome://marionette/content/proxy.js:256:7
+sendToServer@chrome://marionette/content/listener.js:734:3
+sendError@chrome://marionette/content/listener.js:768:3
+dispatch/</<@chrome://marionette/content/listener.js:532:40
+
+1513037808278	Marionette	DEBUG	Register listener.js for window 4294967297
+1513037808328	Marionette	DEBUG	Register listener.js for window 4294967299
+1513037903084	geckodriver	INFO	geckodriver 0.19.1
+1513037903089	geckodriver	INFO	Listening on 127.0.0.1:39367
+1513037904226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.N25ag29GKnkz"
+1513037905116	Marionette	INFO	Enabled via --marionette
+1513037908722	Marionette	INFO	Listening on port 40723
+1513037908909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513037909005	Marionette	DEBUG	Register listener.js for window 2147483649
+1513037909034	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513037909385	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513037909386	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513037913366	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513037913905	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513037914173	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513038219683	geckodriver	INFO	geckodriver 0.19.1
+1513038219688	geckodriver	INFO	Listening on 127.0.0.1:51805
+1513038220821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ok6RXyn2rC64"
+1513038221694	Marionette	INFO	Enabled via --marionette
+1513038225224	Marionette	INFO	Listening on port 41575
+1513038225255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513038225384	Marionette	DEBUG	Register listener.js for window 2147483649
+1513038225424	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513038225790	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513038225790	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513038229469	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513038230051	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513038470536	geckodriver	INFO	geckodriver 0.19.1
+1513038470541	geckodriver	INFO	Listening on 127.0.0.1:56505
+1513038471679	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NEo9bO43SXPI"
+1513038472561	Marionette	INFO	Enabled via --marionette
+1513038476207	Marionette	INFO	Listening on port 33581
+1513038476304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513038476382	Marionette	DEBUG	Register listener.js for window 2147483649
+1513038476422	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513038476773	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513038476774	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513038480986	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513038481595	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513038481857	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1513038615427	geckodriver	INFO	geckodriver 0.19.1
+1513038615433	geckodriver	INFO	Listening on 127.0.0.1:52829
+1513038616553	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Wot4W1UgLtQY"
+1513038617432	Marionette	INFO	Enabled via --marionette
+1513038621725	Marionette	INFO	Listening on port 41313
+1513038621775	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513038621855	Marionette	DEBUG	Register listener.js for window 2147483649
+1513038621906	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513038622249	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513038622249	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513038625209	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513038625807	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513038626072	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513038681662	geckodriver	INFO	geckodriver 0.19.1
+1513038681667	geckodriver	INFO	Listening on 127.0.0.1:40625
+1513038682802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KtYuzieDFng1"
+1513038683704	Marionette	INFO	Enabled via --marionette
+1513038687371	Marionette	INFO	Listening on port 33227
+1513038687424	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513038687521	Marionette	DEBUG	Register listener.js for window 2147483649
+1513038687572	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513038687911	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513038687912	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513038690970	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513038691491	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513038691750	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513038691854	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br/secret/new"
+1513038692552	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br/secret/new"
+1513038692691	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br/secret/new"
+1513038692691	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br/secret/new"
+1513038693390	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/secret/new"
+1513038693401	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/secret/new"
+1513038757734	geckodriver	INFO	geckodriver 0.19.1
+1513038757740	geckodriver	INFO	Listening on 127.0.0.1:46455
+1513038758867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.G1fhkqvk88xv"
+1513038759774	Marionette	INFO	Enabled via --marionette
+1513038763558	Marionette	INFO	Listening on port 42381
+1513038763587	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513038763698	Marionette	DEBUG	Register listener.js for window 2147483649
+1513038763754	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513038764109	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513038764109	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513038767803	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513038768363	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513038768622	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513039098841	geckodriver	INFO	geckodriver 0.19.1
+1513039098848	geckodriver	INFO	Listening on 127.0.0.1:54123
+1513039099989	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rth53HntjQ84"
+1513039101033	Marionette	INFO	Enabled via --marionette
+1513039105333	Marionette	INFO	Listening on port 42827
+1513039105409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513039105494	Marionette	DEBUG	Register listener.js for window 2147483649
+1513039105534	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513039106034	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513039106035	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513039109412	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513039110419	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513039110681	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513039149442	geckodriver	INFO	geckodriver 0.19.1
+1513039149447	geckodriver	INFO	Listening on 127.0.0.1:52869
+1513039150587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NDckGti4GC8C"
+1513039151640	Marionette	INFO	Enabled via --marionette
+1513039155888	Marionette	INFO	Listening on port 33057
+1513039155915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513039156009	Marionette	DEBUG	Register listener.js for window 2147483649
+1513039156062	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513039156393	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513039156394	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513039160178	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513039160695	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513039160957	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513039161071	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br/secret/new"
+1513039162418	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br/secret/new"
+1513039162419	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br/secret/new"
+1513039162878	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/login"
+1513039162887	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/login"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513039283272	geckodriver	INFO	geckodriver 0.19.1
+1513039283278	geckodriver	INFO	Listening on 127.0.0.1:59675
+1513039284411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.biE0ByrzSLzz"
+1513039285612	Marionette	INFO	Enabled via --marionette
+1513039289712	Marionette	INFO	Listening on port 37575
+1513039289742	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513039289822	Marionette	DEBUG	Register listener.js for window 2147483649
+1513039289867	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513039290221	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513039290223	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513039293489	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513039294123	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513039294400	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513039294441	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513039294592	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513039294593	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513039295186	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513039295344	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/cadastro"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513040030633	geckodriver	INFO	geckodriver 0.19.1
+1513040030637	geckodriver	INFO	Listening on 127.0.0.1:41845
+1513040031758	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RJ4SCnlLJdL1"
+1513040032757	Marionette	INFO	Enabled via --marionette
+1513040036495	Marionette	INFO	Listening on port 45895
+1513040036579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513040036656	Marionette	DEBUG	Register listener.js for window 2147483649
+1513040036695	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513040037063	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513040037063	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513040039765	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513040040512	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513040040770	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513040041051	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040042307	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040042308	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040042847	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040043247	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/cadastro"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513040088070	geckodriver	INFO	geckodriver 0.19.1
+1513040088074	geckodriver	INFO	Listening on 127.0.0.1:39267
+1513040089196	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5JsBg7GCZszT"
+1513040090414	Marionette	INFO	Enabled via --marionette
+1513040094445	Marionette	INFO	Listening on port 42353
+1513040094520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513040094600	Marionette	DEBUG	Register listener.js for window 2147483649
+1513040094651	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513040094983	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513040094984	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513040098684	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513040099274	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513040099546	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513040099850	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040100948	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040100948	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040101461	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040101833	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/cadastro"
+[Parent 14582, Gecko_IOThread] WARNING: pipe error (74): Connection reset by peer: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 14582, Gecko_IOThread] WARNING: pipe error (50): Connection reset by peer: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513040328350	geckodriver	INFO	geckodriver 0.19.1
+1513040328355	geckodriver	INFO	Listening on 127.0.0.1:33563
+1513040329484	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bCAbOJqwzzNc"
+1513040330373	Marionette	INFO	Enabled via --marionette
+1513040334228	Marionette	INFO	Listening on port 46119
+1513040334302	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513040334383	Marionette	DEBUG	Register listener.js for window 2147483649
+1513040334428	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513040335015	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513040335016	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513040340257	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513040342771	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513040343033	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513040343525	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040344740	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040344741	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040345238	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040345818	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/cadastro"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513040430763	geckodriver	INFO	geckodriver 0.19.1
+1513040430768	geckodriver	INFO	Listening on 127.0.0.1:42747
+1513040431897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ur6nCGXaNZct"
+1513040432848	Marionette	INFO	Enabled via --marionette
+1513040436837	Marionette	INFO	Listening on port 37653
+1513040436916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513040436995	Marionette	DEBUG	Register listener.js for window 2147483649
+1513040437020	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513040438420	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513040438421	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513040442343	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513040446128	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513040446391	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513040447391	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040448355	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040448355	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040448854	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040449259	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/cadastro"
+[Child 15160, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15160, Chrome_ChildThread] WARNING: pipe error (15): Connection reset by peer: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15160, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513040523662	geckodriver	INFO	geckodriver 0.19.1
+1513040523667	geckodriver	INFO	Listening on 127.0.0.1:58039
+1513040524828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ny8cMLSr3nV5"
+1513040525808	Marionette	INFO	Enabled via --marionette
+1513040529850	Marionette	INFO	Listening on port 36665
+1513040529963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513040530062	Marionette	DEBUG	Register listener.js for window 2147483649
+1513040530098	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513040530442	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513040530442	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513040533839	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513040534466	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513040534730	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513040535023	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040536345	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040536346	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040536834	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040536841	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/cadastro"
+[Child 15365, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15365, Chrome_ChildThread] WARNING: pipe error (15): Connection reset by peer: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15365, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513040559117	geckodriver	INFO	geckodriver 0.19.1
+1513040559123	geckodriver	INFO	Listening on 127.0.0.1:46529
+1513040560283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3moCpN3DjERf"
+1513040561683	Marionette	INFO	Enabled via --marionette
+1513040565644	Marionette	INFO	Listening on port 38859
+1513040565712	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513040565804	Marionette	DEBUG	Register listener.js for window 2147483649
+1513040565869	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513040566264	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513040566286	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513040569319	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513040570018	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513040570294	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513040570583	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040571892	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040571893	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040572363	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513040572767	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/cadastro"
+[Child 15550, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15550, Chrome_ChildThread] WARNING: pipe error (15): Connection reset by peer: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15550, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1513040733366	geckodriver	INFO	geckodriver 0.19.1
+1513040733371	geckodriver	INFO	Listening on 127.0.0.1:37767
+1513040734551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jYJYFNQU9VX2"
+1513040735851	Marionette	INFO	Enabled via --marionette
+1513040739719	Marionette	INFO	Listening on port 44379
+1513040739945	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513040740043	Marionette	DEBUG	Register listener.js for window 2147483649
+1513040740071	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513040740408	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513040740408	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513040743583	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513040751742	geckodriver	INFO	geckodriver 0.19.1
+1513040751750	geckodriver	INFO	Listening on 127.0.0.1:46733
+1513040752989	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TBlcQWXo7fDd"
+1513040754494	Marionette	INFO	Enabled via --marionette
+1513040759821	Marionette	INFO	Listening on port 42607
+1513040759933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513040760083	Marionette	DEBUG	Register listener.js for window 2147483649
+1513040760127	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513040760503	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513040760504	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513040765965	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513040766540	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513040863376	geckodriver	INFO	geckodriver 0.19.1
+1513040863380	geckodriver	INFO	Listening on 127.0.0.1:55083
+1513040864577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uXK2oqhgG9hE"
+1513040865693	Marionette	INFO	Enabled via --marionette
+1513040870285	Marionette	INFO	Listening on port 33473
+1513040870319	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513040870426	Marionette	DEBUG	Register listener.js for window 2147483649
+1513040870456	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513040870797	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513040870798	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513040874614	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513040875323	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513040875597	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513040875710	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br/secret/new"
+1513040876596	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br/secret/new"
+1513040876597	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br/secret/new"
+1513040877105	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/secret"
+1513040877113	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/secret"
+1513040953448	geckodriver	INFO	geckodriver 0.19.1
+1513040953452	geckodriver	INFO	Listening on 127.0.0.1:42473
+1513040954593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eW1sCqf2a7F7"
+1513040955609	Marionette	INFO	Enabled via --marionette
+1513040959890	Marionette	INFO	Listening on port 44555
+1513040959917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513040960005	Marionette	DEBUG	Register listener.js for window 2147483649
+1513040960049	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513040962262	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513040962263	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513040968517	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513040969977	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+
+(/usr/lib/firefox/firefox:16244): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513041011594	geckodriver	INFO	geckodriver 0.19.1
+1513041011601	geckodriver	INFO	Listening on 127.0.0.1:57811
+1513041012726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VW9gz6AC9So6"
+1513041013614	Marionette	INFO	Enabled via --marionette
+1513041017555	Marionette	INFO	Listening on port 40687
+1513041017662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513041017765	Marionette	DEBUG	Register listener.js for window 2147483649
+1513041017792	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513041018209	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513041018210	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513041022004	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513041022911	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+
+(/usr/lib/firefox/firefox:16392): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1513041414602	geckodriver	INFO	geckodriver 0.19.1
+1513041414606	geckodriver	INFO	Listening on 127.0.0.1:37043
+1513041415783	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rU2TXZptEE8Z"
+1513041417304	Marionette	INFO	Enabled via --marionette
+1513041421530	Marionette	INFO	Listening on port 37159
+1513041421602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513041421678	Marionette	DEBUG	Register listener.js for window 2147483649
+1513041421717	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513041422168	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513041422168	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513041427573	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513041430019	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+
+(/usr/lib/firefox/firefox:16663): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1513041449036	geckodriver	INFO	geckodriver 0.19.1
+1513041449040	geckodriver	INFO	Listening on 127.0.0.1:55381
+1513041450164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Edw1iSGPb8Zo"
+1513041451053	Marionette	INFO	Enabled via --marionette
+1513041455314	Marionette	INFO	Listening on port 39715
+1513041455383	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513041455463	Marionette	DEBUG	Register listener.js for window 2147483649
+1513041455506	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513041456328	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513041456328	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513041459705	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513041460230	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+
+(/usr/lib/firefox/firefox:16805): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513041522954	geckodriver	INFO	geckodriver 0.19.1
+1513041522959	geckodriver	INFO	Listening on 127.0.0.1:59117
+1513041524089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3TiFVQwFDJkS"
+1513041525653	Marionette	INFO	Enabled via --marionette
+1513041529564	Marionette	INFO	Listening on port 40295
+1513041529615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513041529722	Marionette	DEBUG	Register listener.js for window 2147483649
+1513041529767	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513041530367	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513041530368	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513041533236	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513041533960	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+
+(/usr/lib/firefox/firefox:16994): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1513041729682	geckodriver	INFO	geckodriver 0.19.1
+1513041729687	geckodriver	INFO	Listening on 127.0.0.1:55593
+1513041730811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RVa5qIO8n8qy"
+1513041731786	Marionette	INFO	Enabled via --marionette
+1513041735567	Marionette	INFO	Listening on port 40713
+1513041735771	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513041735863	Marionette	DEBUG	Register listener.js for window 2147483649
+1513041735896	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513041736563	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513041736564	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513041740403	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513041740921	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+
+(/usr/lib/firefox/firefox:17187): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1513041787639	geckodriver	INFO	geckodriver 0.19.1
+1513041787645	geckodriver	INFO	Listening on 127.0.0.1:55673
+1513041788813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WAubZedDJS5D"
+1513041789985	Marionette	INFO	Enabled via --marionette
+1513041795158	Marionette	INFO	Listening on port 38437
+1513041795240	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513041795326	Marionette	DEBUG	Register listener.js for window 2147483649
+1513041795386	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513041796596	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513041796597	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513041799939	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513041800489	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513041800679	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br//"
+1513041802137	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br//"
+1513041802138	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br//"
+1513041802761	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513041803162	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+1513041891864	geckodriver	INFO	geckodriver 0.19.1
+1513041891868	geckodriver	INFO	Listening on 127.0.0.1:53129
+1513041892994	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jMYp8fyPYw5X"
+1513041894358	Marionette	INFO	Enabled via --marionette
+1513041898028	Marionette	INFO	Listening on port 39587
+1513041898124	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513041898241	Marionette	DEBUG	Register listener.js for window 2147483649
+1513041898281	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513041898647	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513041898647	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513041903017	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513041903593	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513041903757	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br//"
+1513041905024	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br//"
+1513041905025	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br//"
+1513041905610	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513041905990	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513041906054	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513041906464	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513041906466	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+1513041906923	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513041907002	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513042333552	geckodriver	INFO	geckodriver 0.19.1
+1513042333557	geckodriver	INFO	Listening on 127.0.0.1:51785
+1513042334672	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.izV9xe57sK6O"
+1513042335615	Marionette	INFO	Enabled via --marionette
+1513042339315	Marionette	INFO	Listening on port 42087
+1513042339531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513042339637	Marionette	DEBUG	Register listener.js for window 2147483649
+1513042339660	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513042340000	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513042340000	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513042344577	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513042345209	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513042345451	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br//"
+1513042346989	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br//"
+1513042346990	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br//"
+1513042347651	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042348034	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042348112	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042348520	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042348521	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+1513042349292	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042349395	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042454497	geckodriver	INFO	geckodriver 0.19.1
+1513042454502	geckodriver	INFO	Listening on 127.0.0.1:55019
+1513042455647	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PKx7KIagnZe8"
+1513042456997	Marionette	INFO	Enabled via --marionette
+1513042461250	Marionette	INFO	Listening on port 37575
+1513042461274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513042461352	Marionette	DEBUG	Register listener.js for window 2147483649
+1513042461391	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513042461748	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513042461749	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513042465992	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513042466553	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513042466722	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br//"
+1513042468279	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br//"
+1513042468280	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br//"
+1513042468885	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042469342	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042469406	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042469836	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042469838	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+1513042470404	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042470441	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042470528	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042470953	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042470955	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+1513042471501	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042471533	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513042518375	geckodriver	INFO	geckodriver 0.19.1
+1513042518381	geckodriver	INFO	Listening on 127.0.0.1:42207
+1513042518527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nMddpO3OUYwK"
+1513042521492	Marionette	INFO	Enabled via --marionette
+1513042525340	Marionette	INFO	Listening on port 36029
+1513042525367	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513042525459	Marionette	DEBUG	Register listener.js for window 2147483649
+1513042525499	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513042525872	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513042525873	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513042529211	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513042529784	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513042529982	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br//"
+1513042531480	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br//"
+1513042531481	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br//"
+1513042532054	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042532483	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+JavaScript error: http://med-profile.apps.intmed.com.br/assets/application-2651fb4b8d84e4b1b09cf21b770eecb3ee8680aef9c9a1b614766e8890695209.js, line 64: TypeError: A is undefined
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+1513042629937	geckodriver	INFO	geckodriver 0.19.1
+1513042629942	geckodriver	INFO	Listening on 127.0.0.1:39269
+1513042631066	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.c1aUjWarOB4b"
+1513042632431	Marionette	INFO	Enabled via --marionette
+1513042636274	Marionette	INFO	Listening on port 33229
+1513042636298	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513042636402	Marionette	DEBUG	Register listener.js for window 2147483649
+1513042636450	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513042636863	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513042636864	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513042640768	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513042641325	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513042641518	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br//"
+1513042643266	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br//"
+1513042643268	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br//"
+1513042643839	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042644518	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042644787	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://med-profile.apps.intmed.com.br/assets/application-2651fb4b8d84e4b1b09cf21b770eecb3ee8680aef9c9a1b614766e8890695209.js, line 64: TypeError: A is undefined
+1513042645387	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513042777438	geckodriver	INFO	geckodriver 0.19.1
+1513042777443	geckodriver	INFO	Listening on 127.0.0.1:33795
+1513042778565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.54lLK4Jiv78P"
+1513042779514	Marionette	INFO	Enabled via --marionette
+1513042783143	Marionette	INFO	Listening on port 40273
+1513042783185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513042783276	Marionette	DEBUG	Register listener.js for window 2147483649
+1513042783328	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513042783751	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513042783752	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513042786871	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513042787496	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513042787675	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br//"
+1513042789085	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br//"
+1513042789085	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br//"
+1513042789669	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042790072	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042790336	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://med-profile.apps.intmed.com.br/assets/application-2651fb4b8d84e4b1b09cf21b770eecb3ee8680aef9c9a1b614766e8890695209.js, line 64: TypeError: A is undefined
+1513042790592	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://med-profile.apps.intmed.com.br/assets/application-2651fb4b8d84e4b1b09cf21b770eecb3ee8680aef9c9a1b614766e8890695209.js, line 64: TypeError: A is undefined
+1513042879176	geckodriver	INFO	geckodriver 0.19.1
+1513042879181	geckodriver	INFO	Listening on 127.0.0.1:50199
+1513042880345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lURoubMk2Qfd"
+1513042881294	Marionette	INFO	Enabled via --marionette
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+1513042885726	Marionette	INFO	Listening on port 40321
+1513042885779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513042885886	Marionette	DEBUG	Register listener.js for window 2147483649
+1513042885949	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513042886996	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513042886997	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513042890412	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513042890998	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513042891183	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br//"
+1513042892860	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br//"
+1513042892862	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br//"
+1513042893404	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042893904	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042894165	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://med-profile.apps.intmed.com.br/assets/application-2651fb4b8d84e4b1b09cf21b770eecb3ee8680aef9c9a1b614766e8890695209.js, line 64: TypeError: A is undefined
+1513042894416	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513042903103	geckodriver	INFO	geckodriver 0.19.1
+1513042903108	geckodriver	INFO	Listening on 127.0.0.1:57367
+1513042904234	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VrXLBLDWaJfD"
+1513042905152	Marionette	INFO	Enabled via --marionette
+1513042908795	Marionette	INFO	Listening on port 33781
+1513042908855	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513042908934	Marionette	DEBUG	Register listener.js for window 2147483649
+1513042908986	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513042909498	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513042909499	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513042912563	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513042913076	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513042913240	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br//"
+1513042915059	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br//"
+1513042915060	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br//"
+1513042915613	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042915923	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042916192	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://med-profile.apps.intmed.com.br/assets/application-2651fb4b8d84e4b1b09cf21b770eecb3ee8680aef9c9a1b614766e8890695209.js, line 64: TypeError: A is undefined
+1513042916448	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513042926439	geckodriver	INFO	geckodriver 0.19.1
+1513042926444	geckodriver	INFO	Listening on 127.0.0.1:56951
+1513042927571	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XlQ6a4UcZu9d"
+1513042928490	Marionette	INFO	Enabled via --marionette
+1513042932243	Marionette	INFO	Listening on port 39293
+1513042932296	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513042932372	Marionette	DEBUG	Register listener.js for window 2147483649
+1513042932430	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513042932760	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513042932760	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513042936531	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513042937636	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513042937821	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br//"
+1513042939117	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br//"
+1513042939119	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br//"
+1513042939655	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042940003	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042940261	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://med-profile.apps.intmed.com.br/assets/application-2651fb4b8d84e4b1b09cf21b770eecb3ee8680aef9c9a1b614766e8890695209.js, line 64: TypeError: A is undefined
+1513042940518	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513042947584	geckodriver	INFO	geckodriver 0.19.1
+1513042947588	geckodriver	INFO	Listening on 127.0.0.1:58503
+1513042948775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.b3xM7lgsXIOO"
+1513042949793	Marionette	INFO	Enabled via --marionette
+1513042953466	Marionette	INFO	Listening on port 34711
+1513042953497	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513042953589	Marionette	DEBUG	Register listener.js for window 2147483649
+1513042953736	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513042954093	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513042954094	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513042957031	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513042957536	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513042957706	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br//"
+1513042958995	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br//"
+1513042958996	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br//"
+1513042959593	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042959939	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513042960209	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513042960766	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://med-profile.apps.intmed.com.br/assets/application-2651fb4b8d84e4b1b09cf21b770eecb3ee8680aef9c9a1b614766e8890695209.js, line 64: TypeError: A is undefined
+JavaScript error: http://med-profile.apps.intmed.com.br/assets/application-2651fb4b8d84e4b1b09cf21b770eecb3ee8680aef9c9a1b614766e8890695209.js, line 64: TypeError: A is undefined
+1513043075405	geckodriver	INFO	geckodriver 0.19.1
+1513043075410	geckodriver	INFO	Listening on 127.0.0.1:34599
+1513043076565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hQCWXLEcI0sQ"
+1513043077543	Marionette	INFO	Enabled via --marionette
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+1513043081927	Marionette	INFO	Listening on port 46067
+1513043081983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513043082071	Marionette	DEBUG	Register listener.js for window 2147483649
+1513043082113	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513043082444	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513043082445	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513043087956	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513043088543	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513043088729	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br//"
+1513043090417	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br//"
+1513043090418	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br//"
+1513043090997	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513043091360	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513043091637	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://med-profile.apps.intmed.com.br/assets/application-2651fb4b8d84e4b1b09cf21b770eecb3ee8680aef9c9a1b614766e8890695209.js, line 64: TypeError: A is undefined
+1513043091889	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513043126539	geckodriver	INFO	geckodriver 0.19.1
+1513043126544	geckodriver	INFO	Listening on 127.0.0.1:32831
+1513043127688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6AzAHxEzYkqz"
+1513043128628	Marionette	INFO	Enabled via --marionette
+1513043132222	Marionette	INFO	Listening on port 33843
+1513043132464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513043132568	Marionette	DEBUG	Register listener.js for window 2147483649
+1513043132627	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513043132986	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513043132987	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513043138317	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513043138917	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513043139079	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br//"
+1513043140351	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br//"
+1513043140353	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br//"
+1513043140901	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513043141300	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513043141569	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://med-profile.apps.intmed.com.br/assets/application-2651fb4b8d84e4b1b09cf21b770eecb3ee8680aef9c9a1b614766e8890695209.js, line 64: TypeError: A is undefined
+1513043141763	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513043141929	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513043141931	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+1513043142476	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513043142511	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+JavaScript error: http://med-profile.apps.intmed.com.br/assets/application-2651fb4b8d84e4b1b09cf21b770eecb3ee8680aef9c9a1b614766e8890695209.js, line 64: TypeError: A is undefined
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+1513043204009	geckodriver	INFO	geckodriver 0.19.1
+1513043204015	geckodriver	INFO	Listening on 127.0.0.1:41531
+1513043205153	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xuZTuI7dJOsr"
+1513043206043	Marionette	INFO	Enabled via --marionette
+1513043209847	Marionette	INFO	Listening on port 43243
+1513043209874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513043209953	Marionette	DEBUG	Register listener.js for window 2147483649
+1513043209987	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513043210341	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513043210342	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513043213900	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513043214423	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513043214607	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br//"
+1513043215911	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br//"
+1513043215913	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br//"
+1513043216453	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513043216847	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513043217122	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://med-profile.apps.intmed.com.br/assets/application-2651fb4b8d84e4b1b09cf21b770eecb3ee8680aef9c9a1b614766e8890695209.js, line 64: TypeError: A is undefined
+1513043217313	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513043217463	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513043217467	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+1513043217947	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513043217980	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+JavaScript error: http://med-profile.apps.intmed.com.br/assets/application-2651fb4b8d84e4b1b09cf21b770eecb3ee8680aef9c9a1b614766e8890695209.js, line 64: TypeError: t is undefined
+JavaScript error: http://med-profile.apps.intmed.com.br/assets/application-2651fb4b8d84e4b1b09cf21b770eecb3ee8680aef9c9a1b614766e8890695209.js, line 64: TypeError: A is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+1513043382629	geckodriver	INFO	geckodriver 0.19.1
+1513043382633	geckodriver	INFO	Listening on 127.0.0.1:33211
+1513043383767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NlaXnzjAjzEN"
+1513043384735	Marionette	INFO	Enabled via --marionette
+1513043388545	Marionette	INFO	Listening on port 46371
+1513043388592	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513043388671	Marionette	DEBUG	Register listener.js for window 2147483649
+1513043388718	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513043389127	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513043389128	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513043392981	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513043393588	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513043393766	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br//"
+1513043395137	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br//"
+1513043395139	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br//"
+1513043395696	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513043396100	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513043396369	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://med-profile.apps.intmed.com.br/assets/application-2651fb4b8d84e4b1b09cf21b770eecb3ee8680aef9c9a1b614766e8890695209.js, line 64: TypeError: A is undefined
+1513043396553	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513043396710	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513043396713	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+1513043397219	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513043397254	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+JavaScript error: http://med-profile.apps.intmed.com.br/assets/application-2651fb4b8d84e4b1b09cf21b770eecb3ee8680aef9c9a1b614766e8890695209.js, line 64: TypeError: t is undefined
+1513043767945	geckodriver	INFO	geckodriver 0.19.1
+1513043767949	geckodriver	INFO	Listening on 127.0.0.1:54973
+1513043769081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jZ4THkc0moHn"
+1513043769974	Marionette	INFO	Enabled via --marionette
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+1513043774180	Marionette	INFO	Listening on port 41273
+1513043774206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513043774286	Marionette	DEBUG	Register listener.js for window 2147483649
+1513043774326	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513043775811	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513043775811	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513043781741	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513043782309	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513043782471	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br//"
+1513043783772	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br//"
+1513043783773	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br//"
+1513043784376	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513043784784	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513043785066	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://med-profile.apps.intmed.com.br/assets/application-2651fb4b8d84e4b1b09cf21b770eecb3ee8680aef9c9a1b614766e8890695209.js, line 64: TypeError: t is undefined
+1513043785246	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513043785397	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513043785400	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+1513043785893	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513043786028	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513044076464	geckodriver	INFO	geckodriver 0.19.1
+1513044076468	geckodriver	INFO	Listening on 127.0.0.1:48065
+1513044077598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.j1dLKAh7PYZg"
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+1513044078695	Marionette	INFO	Enabled via --marionette
+1513044082624	Marionette	INFO	Listening on port 35061
+1513044082724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513044082803	Marionette	DEBUG	Register listener.js for window 2147483649
+1513044082834	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513044083177	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513044083177	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513044087401	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513044088158	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+
+(/usr/lib/firefox/firefox:19976): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 276"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:276:5
+reply@chrome://marionette/content/proxy.js:256:7
+sendToServer@chrome://marionette/content/listener.js:734:3
+sendError@chrome://marionette/content/listener.js:768:3
+dispatch/</<@chrome://marionette/content/listener.js:532:40
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1513044141444	geckodriver	INFO	geckodriver 0.19.1
+1513044141450	geckodriver	INFO	Listening on 127.0.0.1:44797
+1513044142583	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5CZ3MVGphIgJ"
+1513044143520	Marionette	INFO	Enabled via --marionette
+1513044147446	Marionette	INFO	Listening on port 36023
+1513044147501	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513044147606	Marionette	DEBUG	Register listener.js for window 2147483649
+1513044147635	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513044147985	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513044147985	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513044151205	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513044151775	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513044151946	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br//"
+1513044153573	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br//"
+1513044153574	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br//"
+1513044154040	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513044154511	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/perfil/editar"
+1513044166826	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: chrome://global/content/bindings/datetimebox.xml, line 1257: TypeError: this.mInputElement is null
+1513111353867	geckodriver	INFO	geckodriver 0.19.1
+1513111353979	geckodriver	INFO	Listening on 127.0.0.1:44711
+1513111355751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5nmzVRpXzjYq"
+1513111358825	Marionette	INFO	Enabled via --marionette
+1513111370217	Marionette	INFO	Listening on port 35379
+1513111370441	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513111370520	Marionette	DEBUG	Register listener.js for window 2147483649
+1513111371280	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513111372234	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513111372235	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513111375135	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513111375942	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513111522313	geckodriver	INFO	geckodriver 0.19.1
+1513111522343	geckodriver	INFO	Listening on 127.0.0.1:33729
+1513111523440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TTpIRiflLvpd"
+1513111524462	Marionette	INFO	Enabled via --marionette
+1513111528026	Marionette	INFO	Listening on port 42643
+1513111528066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513111528139	Marionette	DEBUG	Register listener.js for window 2147483649
+1513111528313	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513111528800	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513111528800	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513111531651	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513111532723	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513111532989	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513111533210	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513111533446	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513111533447	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513111533914	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513111534424	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513111767523	geckodriver	INFO	geckodriver 0.19.1
+1513111767527	geckodriver	INFO	Listening on 127.0.0.1:54765
+1513111768650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kluSbruG2CUE"
+1513111769645	Marionette	INFO	Enabled via --marionette
+1513111773298	Marionette	INFO	Listening on port 33147
+1513111773368	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513111773441	Marionette	DEBUG	Register listener.js for window 2147483649
+1513111773488	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513111775058	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513111775059	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513111778083	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513111779113	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513111779374	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513111779826	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513111780811	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513111780813	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513111781261	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513111781858	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513111796167	geckodriver	INFO	geckodriver 0.19.1
+1513111796171	geckodriver	INFO	Listening on 127.0.0.1:50709
+1513111797300	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RDAKMzJo0JwR"
+1513111798166	Marionette	INFO	Enabled via --marionette
+1513111801740	Marionette	INFO	Listening on port 32773
+1513111801819	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513111801921	Marionette	DEBUG	Register listener.js for window 2147483649
+1513111801960	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513111802712	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513111802713	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513111805796	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br//"
+1513111806768	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br//"
+1513111807028	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513111807558	Marionette	DEBUG	Received DOM event "beforeunload" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513111808536	Marionette	DEBUG	Received DOM event "pagehide" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513111808536	Marionette	DEBUG	Received DOM event "unload" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513111808984	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://med-profile.apps.intmed.com.br/cadastro"
+1513111809204	Marionette	DEBUG	Received DOM event "pageshow" for "http://med-profile.apps.intmed.com.br/cadastro"
+Gdk-Message: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+1520827035983	geckodriver	INFO	geckodriver 0.19.1
+1520827036080	geckodriver	INFO	Listening on 127.0.0.1:43045
+1520827037399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OIUo5ZPBSXRj"
+1520827044188	Marionette	INFO	Enabled via --marionette
+1520827050214	Marionette	INFO	Listening on port 34353
+1520827050332	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:1872): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
